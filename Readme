@@ -1,0 +1,11 @@
+Important points:
+There are two matlab files for this assignment.
+They are:
+1. main.m
+2. RotationTranslation.m
+
+The RotationTranslation.m is a function which computes the rotation matrix (R) and translation vector (t).
+
+One has to run the main.m file for getting the output.
+This file will load the input images from the RGBD_dataset which is in the assignment-2 folder only.
+
